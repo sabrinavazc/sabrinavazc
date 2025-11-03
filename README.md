@@ -14,9 +14,7 @@
 
 - 🔺 &nbsp; Brasileira, moro em Recife, Pernambuco.
 - 👩🏽‍💻 &nbsp; Desenvolvedora Web.
-- 💼 &nbsp; Advogada especialista em Direito digital e Proteção de Dados.
-- 🐈🐈 &nbsp; Mãe de pet.
-  
+
   ## 
 </div>
 <div align="center">
