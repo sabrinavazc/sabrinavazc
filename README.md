@@ -12,7 +12,7 @@
   ## 
 <h3  align="center"> 👩🏽‍💻 &nbsp;Sobre mim </h3>
 
-- 🔺 &nbsp; Brasileira, moro em Recife, Pernambuco.
+- 🔺 &nbsp; Brasileira, moro em São Paulo, SP
 - 👩🏽‍💻 &nbsp; Desenvolvedora Web.
 
   ## 
