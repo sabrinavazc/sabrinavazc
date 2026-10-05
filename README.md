@@ -2,7 +2,7 @@
   <img height="320em" src="public/header.png" alt="Sabrina Vaz — Desenvolvedora Full-Stack"/>
 
   <h2>Oi, eu sou a Sabrina 👋</h2>
-  <p><b>Desenvolvedora Full-Stack Jr.</b> · advogada especialista em Direito Digital · São Paulo, SP</p>
+  <p><b>Desenvolvedora Full-Stack Jr.</b> · São Paulo, SP</p>
 
   <a href="mailto:sabrina.vaz.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/sabrinavazc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,9 +12,9 @@
 
 ### 👩🏽‍💻 Sobre mim
 
-Vim do Direito para a tecnologia. Sou formada em Direito, com especialização em **Direito Digital**, e hoje construo aplicações web de ponta a ponta — do banco de dados à interface.
+Sou desenvolvedora Full-Stack e construo aplicações web de ponta a ponta: modelagem de banco com **PostgreSQL e Prisma**, APIs REST em **Node.js** e interfaces em **React, TypeScript e Tailwind**.
 
-Essa combinação muda a forma como eu desenvolvo: penso em **privacidade e proteção de dados (LGPD) desde o design**, escrevo regras de negócio com atenção a requisitos legais e converso bem com produto, jurídico e usuários. Também atuo com **Product Design** e síntese de pesquisa em produtos financeiros digitais.
+Gosto de código testado, bem organizado e fácil de manter. Também tenho experiência com **Product Design**, então consigo levar uma ideia do protótipo no Figma até o produto em produção, conversando bem com design e produto no caminho.
 
 - 🔭 Hoje: desenvolvendo um sistema web Full-Stack para uma clínica médica (freelance)
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas (UniFBV Wyden) · formada em Desenvolvimento Web pela Trybe
